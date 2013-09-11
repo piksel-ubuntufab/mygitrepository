@@ -1,0 +1,4 @@
+mygitrepository
+===============
+
+A foo repository
